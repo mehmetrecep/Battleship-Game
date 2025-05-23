@@ -1,6 +1,7 @@
 
 ## Battleship Game
 
+![battleship](https://github.com/user-attachments/assets/48374c4d-e426-4f08-8c8c-eed80a0cdd9d)
 
 
 A networked, two-player or more Battleship game implemented in Java, where players place ships on a 10x10 grid and take turns firing shots to sink their opponent's fleet. The project uses a client-server architecture with TCP communication for real-time gameplay.
