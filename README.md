@@ -15,8 +15,9 @@ Console Client: Provides a text-based interface for gameplay.
 
 ## Project Structure
 
-Server: Manages client connections and game instances using Java NIO(Non-blocking IO) (Server.java, Player.java, Game.java).
-Client: Connects to the server and handles user input (Client.java).
+<b>Server</b>: Manages client connections and game instances using Java NIO(Non-blocking IO) (Server.java, Player.java, Game.java).
+
+<b>Client</b>: Connects to the server and handles user input (Client.java).
 Game Logic: Encapsulates ship placement, shooting, and win conditions (Game.java, GameAction.java, GameActionType.java).
 
 ## Prerequisites
