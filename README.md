@@ -51,6 +51,14 @@ Join the Game:
 Launch the client and enter a name when prompted.
 Wait for an opponent (matchmaking pairs players every 2 seconds).
 
+## To connect to the server
+<img width="885" alt="Screenshot 2025-05-23 at 20 47 28" src="https://github.com/user-attachments/assets/d45d72a1-3301-4433-81e8-8932af45375b" />
+
+## To Enter your name
+<img width="885" alt="Screenshot 2025-05-23 at 20 48 40" src="https://github.com/user-attachments/assets/8b1e8c7b-a82e-459b-b7bb-02e595f85ee3" />
+
+## No. of waiting players
+<img width="885" alt="Screenshot 2025-05-23 at 20 49 34" src="https://github.com/user-attachments/assets/dae31347-8136-4e20-8c6d-2a1b77f73363" />
 
 Place Ships:
 
