@@ -60,9 +60,13 @@ Wait for an opponent (matchmaking pairs players every 2 seconds).
 ## No. of waiting players
 <img width="885" alt="Screenshot 2025-05-23 at 20 49 34" src="https://github.com/user-attachments/assets/dae31347-8136-4e20-8c6d-2a1b77f73363" />
 
-Place Ships:
+<b>Place Ships</b>:
 
 Enter coordinates for five ships (Carrier: 5, Battleship: 4, Cruiser: 3, Submarine: 3, Destroyer: 2).
+By placing one cell, it will place the ship horizontally or vertically. You rotate the position of the ship by clicking <b>Rotate ship</b>
+
+<img width="903" alt="Screenshot 2025-05-23 at 20 53 31" src="https://github.com/user-attachments/assets/c3fb6064-058e-411b-bc9d-63b02adaad5e" />
+
 Format: row,col,H|V (e.g., 0,0,H for horizontal at (0,0)).
 Example: 0,0,H|2,2,V|4,4,H|6,6,V|8,8,H.
 
