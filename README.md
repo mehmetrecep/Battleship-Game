@@ -1,4 +1,7 @@
-Battleship Game
+
+## Battleship Game
+
+
 A networked, two-player Battleship game implemented in Java, where players place ships on a 10x10 grid and take turns firing shots to sink their opponent's fleet. The project uses a client-server architecture with TCP communication for real-time gameplay.
 Features
 
@@ -8,21 +11,21 @@ Robust Game Logic: Validates ship placements and shots, handles hits, misses, an
 Logging: Records server, player, and game events to log files for debugging.
 Console Client: Provides a text-based interface for gameplay.
 
-Project Structure
+## Project Structure
 
 Server: Manages client connections and game instances using Java NIO (Server.java, Player.java, Game.java).
 Client: Connects to the server and handles user input (Client.java).
 Game Logic: Encapsulates ship placement, shooting, and win conditions (Game.java, GameAction.java, GameActionType.java).
 
-Prerequisites
+## Prerequisites
 
 Java Development Kit (JDK) 8 or higher.
 Git for cloning the repository.
 Terminal emulator (e.g., Telnet) or the provided client for gameplay.
 
-Setup Instructions
+## Setup Instructions
 1. Clone the Repository
-git clone https://github.com/username/battleship-repo.git
+git clone https://github.com/mehmetrecep/Battleship-Game
 cd battleship-repo
 
 2. Compile the Project
@@ -41,7 +44,7 @@ java Client localhost 8080
 
 Connects to the server at localhost:8080.
 
-Gameplay
+## Gameplay
 
 Join the Game:
 
@@ -93,15 +96,13 @@ Reconnection support for interrupted games.
 Database for game state persistence.
 Authentication and encryption for secure communication.
 
-Contributing
+## Contributing
 
 Fork the repository.
-Create a feature branch: git checkout -b feature/your-feature.
+Create a feature branch: 
+git checkout -b feature/your-feature.
 Commit changes: git commit -m "Add your feature".
 Push to GitHub: git push origin feature/your-feature.
 Open a pull request.
 
-License
-This project is licensed under the MIT License.
-Contact
-For issues or suggestions, open an issue on GitHub or contact [your.email@example.com].
+  
