@@ -7,7 +7,7 @@
 A networked, two-player or more Battleship game implemented in Java, where players place ships on a 10x10 grid and take turns firing shots to sink their opponent's fleet. The project uses a client-server architecture with TCP communication for real-time gameplay.
 Features
 
-Multiplayer: Supports two players per game with automatic matchmaking.
+<b>Multiplayer</b>: Supports two players per game with automatic matchmaking.
 Reliable Communication: Uses TCP for consistent game state updates.
 Robust Game Logic: Validates ship placements and shots, handles hits, misses, and sunk ships.
 Logging: Records server, player, and game events to log files for debugging.
